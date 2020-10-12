@@ -12,7 +12,6 @@ from typing import List
 # 3,2,1 → 1,2,3
 # 1,1,5 → 1,5,1
 
-
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
         """
